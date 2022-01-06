@@ -20,3 +20,4 @@ while (j < listadoNotas.length) {
 alert(
   `la cantidad de mayor a 7 es ${cantMayor} y la cantidad de menores es ${cantMenores}`
 );
+
